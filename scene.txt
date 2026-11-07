@@ -1,4 +1,4 @@
 # The scene this site serves: its file name, the release that holds it (OWNER/REPO@TAG,
 # or a tag of this repository) and its SHA-256. Written by scripts/publish-scenes.py in
 # SamG-Coder/solstice; pushing a change deploys the new scene.
-cove.solstice 2026-11-08-1020 df988fddc5e65cf0adb26ac35611d748290db912e5ad33927eb29d4682e6fb3e
+cove.solstice 2026-11-08-1029 3a9986af76a13753a43316c5e898b5758d34ba5d841533e0e62a9d058232b133
